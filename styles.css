@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+#navbar{
+    display:block;
+    float:left:
+    /* text-align: center;
+    justify-content: center;
+    align-items: center; */
+    width: 1728px;
+    height: 111px;
+    flex-shrink: 0;
+}
+img{
+    height: 200px;
+    width:400px:
+}
